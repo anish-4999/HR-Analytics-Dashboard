@@ -91,7 +91,7 @@ The dataset contains employee information including:
 
 View the interactive dashboard here:
 
-[Tableau Public]([your-link](https://public.tableau.com/app/profile/anish.singh6258/viz/HRDashboardproject_17826777784450/HRSummary))
+[Tableau Public](https://public.tableau.com/app/profile/anish.singh6258/viz/HRDashboardproject_17826777784450/HRSummary)
 
 ---
 
