@@ -66,12 +66,32 @@ The dataset contains employee information including:
 
 ---
 
+## Business Questions Answered
+
+- What is the total number of active employees?
+- Which departments have the highest employee count?
+- How has hiring changed over time?
+- What is the gender distribution across the company?
+- How are employees distributed by age and education?
+- Which education levels are associated with different performance ratings?
+- What are the termination trends?
+
+---
+
 ## Repository Contents
 
 - `HR_Analytics_Dashboard.twbx`
 - `HR_Dataset.csv`
 - `HR Summary.png`
 - `HR | Details.png`
+
+---
+
+## Live Dashboard
+
+View the interactive dashboard here:
+
+[Tableau Public]([your-link](https://public.tableau.com/app/profile/anish.singh6258/viz/HRDashboardproject_17826777784450/HRSummary))
 
 ---
 
