@@ -38,7 +38,7 @@ The dataset contains employee information including:
 
 ### HR Details
 
-![HR Details](HR%20%7C%20Details.png)
+![HR Details](HR_Details.png)
 
 ---
 
