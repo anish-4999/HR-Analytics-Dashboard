@@ -1,2 +1,82 @@
-# HR-Analytics-Dashboard
-Interactive HR Analytics Dashboard built in Tableau to analyze workforce demographics, hiring trends, and employee performance.
+# HR Analytics Dashboard
+
+## Project Overview
+
+This project is an interactive HR Analytics Dashboard built using Tableau. It analyzes workforce demographics, hiring trends, employee distribution, education, performance, and attrition to support data-driven HR decisions.
+
+---
+
+## Tools Used
+
+- Tableau
+- CSV Dataset
+
+---
+
+## Dataset
+
+The dataset contains employee information including:
+
+- Employee ID
+- Gender
+- Department
+- Job Title
+- Age
+- Education
+- Hire Date
+- Termination Date
+- Performance Rating
+- Location
+
+---
+
+## Dashboard Preview
+
+### HR Summary
+
+![HR Summary](HR%20Summary.png)
+
+### HR Details
+
+![HR Details](HR%20%7C%20Details.png)
+
+---
+
+## Key Metrics
+
+- Total Employees
+- Active Employees
+- Terminated Employees
+- Hiring Trend
+- Gender Distribution
+- Department-wise Employees
+- Education Analysis
+- Performance Analysis
+
+---
+
+## Dashboard Features
+
+- Interactive dashboard
+- Department-wise employee analysis
+- Hiring and termination trends
+- Employee demographics
+- Geographic distribution
+- Interactive filters
+
+---
+
+## Repository Contents
+
+- `HR_Analytics_Dashboard.twbx`
+- `HR_Dataset.csv`
+- `HR Summary.png`
+- `HR | Details.png`
+
+---
+
+## Future Improvements
+
+- Connect to SQL database.
+- Automate data refresh.
+- Develop a Power BI version.
